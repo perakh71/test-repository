@@ -1,5 +1,5 @@
 "Package","Item","Title","Rows","Cols","n_binary","n_character","n_factor","n_logical","n_numeric","CSV","Doc"
-"AER","Affairs","Fair's Extramarital Affairs Data",601,9,2,0,2,0,7,"https://vincentarelbundock.github.io/Rdatasets/csv/AER/Affairs.csv","https://vincentarelbundock.github.io/Rdatasets/doc/AER/Affairs.html"
+"AER","ORIT","Fair's Extramarital Affairs Data",601,9,2,0,2,0,7,"https://vincentarelbundock.github.io/Rdatasets/csv/AER/Affairs.csv","https://vincentarelbundock.github.io/Rdatasets/doc/AER/Affairs.html"
 "AER","ArgentinaCPI","Consumer Price Index in Argentina",80,2,0,0,0,0,2,"https://vincentarelbundock.github.io/Rdatasets/csv/AER/ArgentinaCPI.csv","https://vincentarelbundock.github.io/Rdatasets/doc/AER/ArgentinaCPI.html"
 "AER","BankWages","Bank Wages",474,4,2,0,3,0,1,"https://vincentarelbundock.github.io/Rdatasets/csv/AER/BankWages.csv","https://vincentarelbundock.github.io/Rdatasets/doc/AER/BankWages.html"
 "AER","BenderlyZwick","Benderly and Zwick Data: Inflation, Growth and Stock Returns",31,5,0,0,0,0,5,"https://vincentarelbundock.github.io/Rdatasets/csv/AER/BenderlyZwick.csv","https://vincentarelbundock.github.io/Rdatasets/doc/AER/BenderlyZwick.html"
